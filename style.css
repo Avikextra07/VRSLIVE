@@ -1,0 +1,26 @@
+      .navbar-custom{
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+        padding: 10px;
+
+      }
+    .logincontainer a:link, a:visited {
+                  float: right;
+                  padding: 6px 10px;
+                  margin-top: 0px;
+                  margin-right: 6px;
+                  background: rgb(2,0,36);
+                  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+                  font-size: 17px;
+                  border: none;
+                  cursor: pointer;
+                  text-decoration: none;
+                  border-radius: 16px;
+                  font-family: 'Lobster Two', cursive;
+                  font-family: 'Orbitron', sans-serif;
+                }
+      .nav-item a{
+        font-family: 'Lobster Two', cursive;
+        font-family: 'Orbitron', sans-serif;
+        color: white;
+      }
